@@ -16,11 +16,11 @@
 
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=ParvPatel07&theme=radical&no-frame=true&row=1&column=4&margin-w=8" width="380"/>
 
-- 🔭 Currently building **State Analytics Advanced API** — a full CRUD REST API with filtering, sorting, aggregation & pagination
-- 🌱 Learning **Full Stack Development** through hands-on IBM coursework
-- 🐍 Also exploring **Python** through side projects like `redrobai`
-- 💡 I enjoy replicating real-world platforms to sharpen my skills (check out `Grow_replica`)
-- ⚡ Fun fact: I like turning "how does that work?" into a working repo
+- 🚀 Building scalable full-stack applications and exploring AI-powered development
+- 💻 Passionate about creating backend systems, modern web applications, and solving real-world problems through code
+- 🌱 Currently learning, building, and contributing through hands-on projects with React, Node.js, Express, MongoDB, and Python
+- 🛠️ I enjoy understanding how software works behind the scenes and recreating complex applications to improve my engineering skills
+- ⚡ Fun fact: I spend more time asking "Why does this work?" than "How do I fix it?"
 
 <br clear="right"/>
 
@@ -79,13 +79,8 @@
 
 <div align="center">
 
-<!-- Replace # with your real profile links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/
-parv-patel-2941932a7
-)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parv-patel-2941932a7)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parvpatel7124@gmail.com)
 
 </div>
 
