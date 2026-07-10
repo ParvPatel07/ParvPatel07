@@ -70,8 +70,46 @@
 
 [![Grow_replica](https://github-readme-stats.vercel.app/api/pin/?username=ParvPatel07&repo=Grow_replica&theme=radical&hide_border=true)](https://github.com/ParvPatel07/Grow_replica)
 [![State-Analytics-Advanced-Api](https://github-readme-stats.vercel.app/api/pin/?username=ParvPatel07&repo=State-Analytics-Advanced-Api&theme=radical&hide_border=true)](https://github.com/ParvPatel07/State-Analytics-Advanced-Api)
-[![Full-Stack-Learnings](https://github-readme-stats.vercel.app/api/pin/?username=ParvPatel07&repo=Full-Stack-Learnings&theme=radical&hide_border=true)](https://github.com/ParvPatel07/Full-Stack-Learnings)
 [![redrobai](https://github-readme-stats.vercel.app/api/pin/?username=ParvPatel07&repo=redrobai&theme=radical&hide_border=true)](https://github.com/ParvPatel07/redrobai)
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.icons8.com/color/96/exam.png" width="70"/><br/>
+      <b>Exam Pro</b><br/>
+      <sub>Exam preparation platform — built as part of the CodingGita program</sub><br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.icons8.com/color/96/api-settings.png" width="70"/><br/>
+      <b>State Analytics Advanced API</b><br/>
+      <sub>Full CRUD REST API — filtering, sorting, aggregation & pagination</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.icons8.com/color/96/replicate.png" width="70"/><br/>
+      <b>Grow_replica</b><br/>
+      <sub>A recreated real-world platform, built to sharpen frontend skills</sub><br/><br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.icons8.com/color/96/python.png" width="70"/><br/>
+      <b>redrobai</b><br/>
+      <sub>Python-based side project exploring automation & AI</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+
 
 </div>
 
