@@ -77,7 +77,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.icons8.com/color/96/exam.png" width="70"/><br/>
+      <img src="https://img.shields.io/badge/Project-Exam__Pro-FF6B6B?style=for-the-badge&logo=googlescholar&logoColor=white" width="180"/><br/><br/>
       <b>Exam Pro</b><br/>
       <sub>Exam preparation platform — built as part of the CodingGita program</sub><br/><br/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -85,7 +85,7 @@
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://img.icons8.com/color/96/api-settings.png" width="70"/><br/>
+      <img src="https://img.shields.io/badge/Project-State__Analytics__API-2E8B57?style=for-the-badge&logo=fastapi&logoColor=white" width="230"/><br/><br/>
       <b>State Analytics Advanced API</b><br/>
       <sub>Full CRUD REST API — filtering, sorting, aggregation & pagination</sub><br/><br/>
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
@@ -94,14 +94,14 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.icons8.com/color/96/replicate.png" width="70"/><br/>
+      <img src="https://img.shields.io/badge/Project-Grow__Replica-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" width="180"/><br/><br/>
       <b>Grow_replica</b><br/>
       <sub>A recreated real-world platform, built to sharpen frontend skills</sub><br/><br/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://img.icons8.com/color/96/python.png" width="70"/><br/>
+      <img src="https://img.shields.io/badge/Project-redrobai-3776AB?style=for-the-badge&logo=python&logoColor=white" width="180"/><br/><br/>
       <b>redrobai</b><br/>
       <sub>Python-based side project exploring automation & AI</sub><br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
