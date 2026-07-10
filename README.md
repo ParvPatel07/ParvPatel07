@@ -79,7 +79,7 @@
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/Project-Exam__Pro-FF6B6B?style=for-the-badge&logo=googlescholar&logoColor=white" width="180"/><br/><br/>
       <b>Exam Pro</b><br/>
-      <sub>Exam preparation platform — built as part of the CodingGita program</sub><br/><br/>
+      <sub>Exam platform — built as part of the CodingGita Internship Project</sub><br/><br/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
